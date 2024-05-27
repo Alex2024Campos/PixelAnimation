@@ -5,10 +5,10 @@
 >- Curso: 2° Jogos Digitais.
 
 # Cena
- A cena foi feita imaginando-se nos universos de ambos os personagens e tentando inseri-los em algo meio conceitual, com isso, chegamos à seguinte ideia: A animação seria feita com foco no personagem de Gabriel Barbosa pulando em cima do personagem de Alex Campos no intuito de simular a forma de ganhar dos adversários no Mario, que era pulando em cima deles. Vale ressaltar também que, ao ser atingida pelo """", a mesma dropa um pequeno item que seria uma runa que a mesma utiliza dentro do game. Com isso, chegamos ao resultado que agora podemos visualizar:
+ A cena foi feita imaginando-se nos universos de ambos os personagens e tentando inseri-los em algo meio conceitual, com isso, chegamos à seguinte ideia: A animação seria feita com foco no personagem de Gabriel Barbosa pulando em cima do personagem de Alex Campos no intuito de simular a forma de ganhar dos adversários no Mario, que era pulando em cima deles. Vale ressaltar também que, ao ser atingida pelo Shy Guy, a mesma dropa um pequeno item que seria uma runa que a mesma utiliza dentro do game. Com isso, chegamos ao resultado que agora podemos visualizar:
 
 # Personagens
- Os personagens são: Akali, que é uma personagem do League of Legends, e 
+ Os personagens são: Akali, que é uma personagem do League of Legends, e Shy Guy, que é um personagem secundário de Mario. 
 
 # Ferramentas
  As ferramentas utilizadas foram, em sua maioria, as básicas. Vejamos a seguir sobre cada uma delas:
