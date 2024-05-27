@@ -29,7 +29,7 @@
 
 
 ## Pencil Tool
- É um tipo de lápis que permite você preencher aonde estiver o ponteiro do mouse quando o lado esquerdo do mouse é clicado. Vale ressaltar que o seu lado direito, nessa função, funciona como uma borracha e é bem útil caso precise fazer algo mais rápido. O tamanho do pixel a ser inserido com o clique do mouse pode ser alterado pelo usuário em duas partes: parte superior a esquerda em "Pixel Size", assim puxando para um lado ou para o outro a bolinha que tem lá e um pouco na parte inferior direita, onde tem um valor numérico ao lado de um quadrado com cores variadas e um sinal de positivo.
+ É um tipo de lápis que permite você preencher aonde estiver o ponteiro do mouse quando o lado esquerdo do mouse é clicado. Vale ressaltar que o seu lado direito, nessa função, funciona como uma borracha e é bem útil caso precise fazer algo mais rápido. O tamanho do pixel a ser inserido com o clique do mouse pode ser alterado pelo usuário em duas partes: parte superior a esquerda em "Pixel Size", assim puxando para um lado ou para o outro a bolinha que tem lá e um pouco na parte inferior direita, onde tem um valor numérico ao lado de um quadrado com cores variadas e um sinal de positivo. Foi mais utilizado para a contagem de pixels de altura e largura de tal personagem para depois utilizamos o Line Tool.
 
 ### Símbolo:
 ![image](https://github.com/Alex2024Campos/PixelAnimation/assets/160960774/cb1e5946-08f2-45df-8fcb-0df9a3d341f2)
@@ -50,7 +50,7 @@
 ![image](https://github.com/Alex2024Campos/PixelAnimation/assets/160960774/3ac742ca-191a-43f3-9e48-8dddc4c60bee)
 
 ## Brush Tool
- É uma ferramenta que mais se assemelha a um pincel e que não carrega consigo a mesma função de apagar com o clique direito do mouse. A Brush Tool tem bastante variedade, permitindo alterar a força do seu preenchimento, tamanho e intervalos (que se resumem em: desenha um quadrado aqui e quando o mouse estiver a tal distância, desenha denovo), tendo aliás a possibilidade de mudar a forma de Brush para opções já predefinidas, mas ótimas. Dentre outras opções que o usuário possa alterar, a fim de motivos pessoais, temos também as "Solid Color" e "Track".
+ É uma ferramenta que mais se assemelha a um pincel e que não carrega consigo a mesma função de apagar com o clique direito do mouse. A Brush Tool tem bastante variedade, permitindo alterar a força do seu preenchimento, tamanho e intervalos (que se resumem em: desenha um quadrado aqui e quando o mouse estiver a tal distância, desenha denovo), tendo aliás a possibilidade de mudar a forma de Brush para opções já predefinidas, mas ótimas. Dentre outras opções que o usuário possa alterar, a fim de motivos pessoais, temos também as "Solid Color" e "Track". Foi utilizado para a criação da arte de fundo na animação.
 
 ### Símbolo:
 ![image](https://github.com/Alex2024Campos/PixelAnimation/assets/160960774/e76fe9de-3668-497e-b8ac-73a369443cc0)
@@ -60,7 +60,7 @@
 
 
 ## Line Tool
- Funciona como o lápis, mas é bem útil quando se é necessário criar uma linha reta, pois é a sua função: Serve para criar uma linha que pode ter a sua direção e tamanho manipulados pelo usuário, sendo o seu clique inicial a base de onde a linha será iniciada. É possível coloca-la para apagar e para ser duplicada ao ser colocada pelo usuário.
+ Funciona como o lápis, mas é bem útil quando se é necessário criar uma linha reta, pois é a sua função: Serve para criar uma linha que pode ter a sua direção e tamanho manipulados pelo usuário, sendo o seu clique inicial a base de onde a linha será iniciada. É possível coloca-la para apagar e para ser duplicada ao ser colocada pelo usuário. Foi utilizado na animação para desenhar de forma reta e certa algumas partes dos personagens que eram mais longos.
 
 ### Símbolo:
 ![image](https://github.com/Alex2024Campos/PixelAnimation/assets/160960774/10c1d174-47a1-4445-98ff-39a0e1e1f082)
@@ -80,7 +80,7 @@
 
 
 ## Color Picker Tool
- É a ferramenta a qual permite o usuário copiar a cor de por exemplo um quadrado verde claro e utiliza-lo direto no lápis, no pincel, entre outras ferramentas. Em outras palavras, ajuda a reaproveitar cores já usadas sem o esforço de tentar recria-las ou procura-las.
+ É a ferramenta a qual permite o usuário copiar a cor de por exemplo um quadrado verde claro e utiliza-lo direto no lápis, no pincel, entre outras ferramentas. Em outras palavras, ajuda a reaproveitar cores já usadas sem o esforço de tentar recria-las ou procura-las. Bastante utilizado para a rápida reutilização de cores.
 
 ### Símbolo:
 ![image](https://github.com/Alex2024Campos/PixelAnimation/assets/160960774/1bf619d5-8f75-4835-978c-564963a4f871)
@@ -91,7 +91,7 @@ Não tem.
 
 
 ## Lighten/Darken Tool
- A ferramenta Lighten/Darken Tool serve para simplificar o trabalho de sombreamento ou clareamento de um pixel: Utilizando-se do mouse e apertando o botão esquerdo sob um pixel de determinada cor, a sua cor será modificada para uma mais escura e que pode ser pega com a Color Picker para o processo de terminar as sombras. Temos o inverso com o direito, que ao ser utilizado, clareia a area em que o mouse do usuário estiver sob. Como outros anteriores, também dá para mudar a força do seu preenchimento e exclusivamente, caso prefira, trocar por conta própria na parte superior esquerda se quer que seja por padrão clarear ou escurecer.
+ A ferramenta Lighten/Darken Tool serve para simplificar o trabalho de sombreamento ou clareamento de um pixel: Utilizando-se do mouse e apertando o botão esquerdo sob um pixel de determinada cor, a sua cor será modificada para uma mais escura e que pode ser pega com a Color Picker para o processo de terminar as sombras. Temos o inverso com o direito, que ao ser utilizado, clareia a area em que o mouse do usuário estiver sob. Como outros anteriores, também dá para mudar a força do seu preenchimento e exclusivamente, caso prefira, trocar por conta própria na parte superior esquerda se quer que seja por padrão clarear ou escurecer. Usado para fazer o sombreamento dos personagems sem muita dificuldade.
 
  ### Símbolo:
 ![image](https://github.com/Alex2024Campos/PixelAnimation/assets/160960774/ce3c2553-56ec-48f5-9156-860d8377c75b)
