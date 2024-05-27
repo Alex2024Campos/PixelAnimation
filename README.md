@@ -15,15 +15,14 @@
 
 ## Atalhos:
  Aqui estará os nomes de cada ferramenta e os seus respectivos atalhos:
-Pencil Tool: P
-Eraser Tool: R
-Brush Tool: E
-Line Tool: L
-Bucket Tool: B
-Color Picker Tool: V
-Lighten/Darken Tool: D
+- Pencil Tool: P
+- Eraser Tool: R
+- Brush Tool: E
+- Line Tool: L
+- Bucket Tool: B
+- Color Picker Tool: V
+- Lighten/Darken Tool: D
 
-PRE
 
 
 ## Pencil Tool
