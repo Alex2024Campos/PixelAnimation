@@ -24,6 +24,9 @@
 - Lighten/Darken Tool: D
 
 
+## Hud Geral
+![image](https://github.com/Alex2024Campos/PixelAnimation/assets/160960774/dab03b53-8ddc-4bcf-b6f5-9bbcad2e178d)
+
 
 ## Pencil Tool
  É um tipo de lápis que permite você preencher aonde estiver o ponteiro do mouse quando o lado esquerdo do mouse é clicado. Vale ressaltar que o seu lado direito, nessa função, funciona como uma borracha e é bem útil caso precise fazer algo mais rápido. O tamanho do pixel a ser inserido com o clique do mouse pode ser alterado pelo usuário em duas partes: parte superior a esquerda em "Pixel Size", assim puxando para um lado ou para o outro a bolinha que tem lá e um pouco na parte inferior direita, onde tem um valor numérico ao lado de um quadrado com cores variadas e um sinal de positivo.
