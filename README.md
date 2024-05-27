@@ -13,6 +13,19 @@
 # Ferramentas
  As ferramentas utilizadas foram, em sua maioria, as básicas. Vejamos a seguir sobre cada uma delas:
 
+## Atalhos:
+ Aqui estará os nomes de cada ferramenta e os seus respectivos atalhos:
+Pencil Tool: P
+Eraser Tool: R
+Brush Tool: E
+Line Tool: L
+Bucket Tool: B
+Color Picker Tool: V
+Lighten/Darken Tool: D
+
+PRE
+
+
 ## Pencil Tool
  É um tipo de lápis que permite você preencher aonde estiver o ponteiro do mouse quando o lado esquerdo do mouse é clicado. Vale ressaltar que o seu lado direito, nessa função, funciona como uma borracha e é bem útil caso precise fazer algo mais rápido. O tamanho do pixel a ser inserido com o clique do mouse pode ser alterado pelo usuário em duas partes: parte superior a esquerda em "Pixel Size", assim puxando para um lado ou para o outro a bolinha que tem lá e um pouco na parte inferior direita, onde tem um valor numérico ao lado de um quadrado com cores variadas e um sinal de positivo.
 
