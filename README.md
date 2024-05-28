@@ -6,6 +6,10 @@
 
 # Cena
  A cena foi feita imaginando-se nos universos de ambos os personagens e tentando inseri-los em algo meio conceitual, com isso, chegamos à seguinte ideia: A animação seria feita com foco no personagem de Gabriel Barbosa pulando em cima do personagem de Alex Campos no intuito de simular a forma de ganhar dos adversários no Mario, que era pulando em cima deles. Vale ressaltar também que, ao ser atingida pelo Shy Guy, a mesma dropa um pequeno item que seria uma runa que a mesma utiliza dentro do game. Com isso, chegamos ao resultado que agora podemos visualizar:
+![Trabalho de TDDGAI](https://github.com/Alex2024Campos/PixelAnimation/assets/160960774/bc61f3bc-40e3-4122-a51e-0aa5c2595e6b)
+![Trabalho de TDDGAI (PNG)](https://github.com/Alex2024Campos/PixelAnimation/assets/160960774/1d7359d1-8316-402a-a9ff-9b7479c7ee3d)
+
+
 
 # Personagens
  Os personagens são: Akali, que é uma personagem do League of Legends, e Shy Guy, que é um personagem secundário de Mario. 
