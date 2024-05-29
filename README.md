@@ -23,6 +23,7 @@
 
 ## Layers:
  As layers permitem que você separe o desenho em diferentes camadas no objetivo de facilitar a animação do desenho ou outro, como por exemplo, separar o personagem do cenário ao seu fundo. Foi usado somente para a animação do fundo e do personagem, separando partes de seu corpo em diferentes Layers para assim mexe-las separadamente e dá a sensação de movimento. Como podemos visualizar abaixo, é possível clonar layers, trocar a sua posição (o que determina se a imagem ficará atrás da outra ou não, por exemplo: o background está como primeira Layer e se fosse movido para cima os desenhos iriam ficar atrás dele, assim, desaparecendo), deletar e trocar os seus nomes conforme o desejo do usuário:
+ 
 ![image](https://github.com/Alex2024Campos/PixelAnimation/assets/160960774/f25cf135-100f-487d-bf90-a4baf0d8c76e)
 
 
