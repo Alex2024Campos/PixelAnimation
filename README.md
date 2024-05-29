@@ -21,6 +21,11 @@
 # Ferramentas
  As ferramentas utilizadas foram, em sua maioria, as básicas. Vejamos a seguir sobre cada uma delas:
 
+## Layers:
+ As layers permitem que você separe o desenho em diferentes camadas no objetivo de facilitar a animação do desenho ou outro, como por exemplo, separar o personagem do cenário ao seu fundo. Foi usado somente para a animação do fundo e do personagem, separando partes de seu corpo em diferentes Layers para assim mexe-las separadamente e dá a sensação de movimento. Como podemos visualizar abaixo, é possível clonar layers, trocar a sua posição (o que determina se a imagem ficará atrás da outra ou não, por exemplo: o background está como primeira Layer e se fosse movido para cima os desenhos iriam ficar atrás dele, assim, desaparecendo), deletar e trocar os seus nomes conforme o desejo do usuário:
+![image](https://github.com/Alex2024Campos/PixelAnimation/assets/160960774/f25cf135-100f-487d-bf90-a4baf0d8c76e)
+
+
 ## Atalhos:
  Aqui estará os nomes de cada ferramenta e os seus respectivos atalhos:
 - Pencil Tool: P
@@ -29,6 +34,7 @@
 - Line Tool: L
 - Bucket Tool: B
 - Color Picker Tool: V
+- Move Tool: M
 - Lighten/Darken Tool: D
 
 
@@ -96,6 +102,16 @@
 ### Opções Adicionais:
 Não tem.
 ![image](https://github.com/Alex2024Campos/PixelAnimation/assets/160960774/47ea3432-2b92-4e69-8ca9-40eebef7cd93)
+
+
+## Move Tool
+ Essa ferramenta permite que movermos o que desenhamos na tela, como por exemplo, um personagem ou parte dele. Foi utilizado para facilitar na hora de animar o pulo, movendo-se de pouco a pouco os pés do Shy Guy que estavam separados de seu corpo através das Layers.
+
+### Símbolo:
+![image](https://github.com/Alex2024Campos/PixelAnimation/assets/160960774/9cde3a9a-3a44-4b6b-ac29-278b11a2ddc9)
+
+### Opções Adicionais:
+![image](https://github.com/Alex2024Campos/PixelAnimation/assets/160960774/02726306-e87e-4cde-9e2c-6d41f2639d11)
 
 
 ## Lighten/Darken Tool
